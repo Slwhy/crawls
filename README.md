@@ -4,3 +4,6 @@ crawl_novel:        爬取笔趣阁网站的小说内容
 
 
 crawl_pict:         爬取壁纸网站的高清壁纸图片
+
+
+crack_youdao:       调用有道的翻译接口
